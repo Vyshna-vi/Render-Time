@@ -1,0 +1,13 @@
+.headings{
+    margin-left: 1200px;
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 25%;
+
+}
+h1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-top:0 ;
+}
