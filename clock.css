@@ -1,16 +1,59 @@
-.headings{
-    margin-left: 1200px;
+.main{
+    margin-left: 500px;
+    margin-top: 25px;
+    border-radius: 10%;
     display: flex;
-    background-color: aquamarine;
+    /* align-items: center; */
+    width: 200px;
+    height: 450px;
+    /* background-color: blue;  */
+    background-image: url(background.jpg);
+    background-size: 200px 450px;
+    flex-direction: column;
+}
+.time{
+    margin-left: 70px;
+    margin-top  : 60px;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    height: 30px;
+    /* background-color: blue; */
+    color: white;
+    /* border:1px solid ; */
+}
+.sec{
+    margin-top  : 70px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    height: 10px;
+    /* background-color: blue; */
+    color: chartreuse;
+    font-size:4px;
+    border: 1px solid gray;
     border-radius: 25%;
 
 }
-h1{
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 20px;
-    margin-top:0 ;
+.colon{
+    font-size: 10px;
+    font-weight: 600;
+}
+.day{
+    font-size: x-small;
+    color: white;
+    margin-left: 60px;
+}
+.child{
+    display: flex;
+    flex-direction: row;
 }
 p{
-    font-size: 25px;
+    display: inline;
+}
+.camlogo{
+    height: 15px;
+    width: 30px;
+
 }
