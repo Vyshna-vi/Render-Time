@@ -1,6 +1,6 @@
 .main{
     margin-left: 500px;
-    margin-top: 25px;
+    margin-top: 50px;
     border-radius: 10%;
     display: flex;
     /* align-items: center; */
@@ -52,8 +52,8 @@
 p{
     display: inline;
 }
-.camlogo{
+/* .camlogo{
     height: 15px;
     width: 30px;
 
-}
+} */
